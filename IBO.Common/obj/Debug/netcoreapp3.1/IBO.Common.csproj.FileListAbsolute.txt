@@ -1,0 +1,16 @@
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.Common.deps.json
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.Common.dll
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.Common.pdb
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\obj\Debug\netcoreapp3.1\IBO.Common.csprojAssemblyReference.cache
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\obj\Debug\netcoreapp3.1\IBO.Common.AssemblyInfoInputs.cache
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\obj\Debug\netcoreapp3.1\IBO.Common.AssemblyInfo.cs
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\obj\Debug\netcoreapp3.1\IBO.Common.dll
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\obj\Debug\netcoreapp3.1\IBO.Common.pdb
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.IRepository.dll
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.Repository.Entities.dll
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.IRepository.pdb
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.Repository.Entities.pdb
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\obj\Debug\netcoreapp3.1\IBO.Common.csproj.CopyComplete
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\obj\Debug\netcoreapp3.1\IBO.Common.csproj.CoreCompileInputs.cache
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.Business.DTOs.dll
+C:\Users\cognizantdotnet15\Source\Repos\IBO.Common\bin\Debug\netcoreapp3.1\IBO.Business.DTOs.pdb

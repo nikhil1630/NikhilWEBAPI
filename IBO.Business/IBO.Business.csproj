@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IBO.IBusiness\IBO.IBusiness.csproj" />
+    <ProjectReference Include="..\IBO.IRepository\IBO.IRepository.csproj" />
+    <ProjectReference Include="..\IBO.Repository\IBO.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
